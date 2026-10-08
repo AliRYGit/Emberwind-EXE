@@ -15,7 +15,6 @@ The original HTML5 game was modified to address compatibility issues with modern
 
 The main process was:
 
-```text
 Original Emberwind HTML5
           ↓
 Compatibility issues with modern browsers
@@ -25,3 +24,6 @@ Code restoration and modifications
 Modern standalone application
           ↓
 Windows EXE
+
+Emberwind HTML5 — GitHub Repository
+https://github.com/operasoftware/Emberwind
