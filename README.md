@@ -12,9 +12,12 @@ This project focuses on restoring the original game and making it playable on mo
 ### What I changed
 
 The original HTML5 game was modified to address compatibility issues with modern environments.
+Emberwind HTML5 — GitHub Repository
+https://github.com/operasoftware/Emberwind
 
 The main process was:
 
+```text
 Original Emberwind HTML5
           ↓
 Compatibility issues with modern browsers
@@ -25,5 +28,3 @@ Modern standalone application
           ↓
 Windows EXE
 
-Emberwind HTML5 — GitHub Repository
-https://github.com/operasoftware/Emberwind
